@@ -1,3 +1,6 @@
+<b>Install FFmpeg on CentOS (automated script!)</b>
+<br/>
+<br/>
 Installing FFmpeg can be a real pain in the ass, but here's a script that you can simply execute and it will do it's magic. 
  
 Just copy the contents of the code below to a file named install_ffmpeg.sh and execute the following:
